@@ -126,8 +126,8 @@ form.signup input.form-control:focus {
 	background: url(../img/main-bg-compressor.jpg) no-repeat center top;
 	background-attachment: relative;
 	background-position: center center;
-  box-sizing:border;
-	width: 100%;	
+    box-sizing:border;
+	width: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -173,7 +173,7 @@ p.copyright {
 	margin-top: 50px;
 	color: #fff;
 	text-align: center;
-}	
+}
 
 .cloud{
   position: fixed;
@@ -234,8 +234,8 @@ p.copyright {
 }
 
 
-@media only screen 
-and (min-device-width : 320px) 
+@media only screen
+and (min-device-width : 320px)
 and (max-device-width : 480px) {
     .cloud{
       display: none;
